@@ -1,7 +1,7 @@
 # Hi! 👋 — I'm Leandro
 
 ## About Me
-I'm a Full Stack Developer located in Buenos Aires, Argentina.
+I'm a Full Stack Developer 👨‍💻 located in Buenos Aires, Argentina.
 
 ## Tech Stack
 <div align="left">
