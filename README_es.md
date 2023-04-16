@@ -26,6 +26,6 @@ No dudes en escribirme si tienes alguna pregunta o simplemente quieres charlar!
 
 ##
 
-<a href="README.md" style="background-color: red">
+<a href="README.md">
   <img src="https://img.shields.io/badge/English-30363d" title="English" alt="English"/>
 </a>
