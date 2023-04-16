@@ -1,6 +1,7 @@
 # Hi! 👋 — I'm Leandro
 
-## Full Stack Developer
+## About Me
+I'm a Full Stack Developer located in Buenos Aires, Argentina.
 
 ## Tech Stack
 <div align="left">
@@ -17,6 +18,8 @@
 </div>
 
 ## Socials
+
+Feel free to reach out if you have any questions or just want to chat!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrocygler)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:leandrocygler@gmail.com)
