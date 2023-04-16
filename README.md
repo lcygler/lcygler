@@ -26,6 +26,6 @@ Feel free to reach out if you have any questions or just want to chat!
 
 ##
 
-<a href="README_es.md" style="background-color: red">
+<a href="README_es.md">
   <img src="https://img.shields.io/badge/Español-30363d" title="Español" alt="Español"/>
 </a>
