@@ -19,7 +19,7 @@ Soy un Desarrollador Full Stack 👨‍💻 ubicado en Buenos Aires, Argentina.
 
 ## Contacto
 
-No dudes en escribirme si tienes alguna pregunta o simplemente quieres charlar!
+No dudes en escribirme si tienes alguna pregunta o simplemente quieres conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/leandrocygler)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white "Gmail")](mailto:leandrocygler@gmail.com)
