@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Leandro
+# Hi! 👋 My name is Leandro
 
 ## About Me
 I'm a Full Stack Developer 👨‍💻 located in Buenos Aires, Argentina.
