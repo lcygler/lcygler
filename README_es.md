@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
 </a>
 
-<h2></h2>
+<h2/>
 
 <a href="README.md">
   <img src="https://img.shields.io/badge/English-30363d" title="English" alt="English"/>
