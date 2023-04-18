@@ -20,7 +20,6 @@
 
 <p>Si te gustaría conectar, no dudes en hacerlo!</p>
 
-
 <a href="https://linkedin.com/in/leandrocygler">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
 </a>
@@ -28,7 +27,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
 </a>
 
-<h2/>
+<h2></h2>
 
 <a href="README.md">
   <img src="https://img.shields.io/badge/English-30363d" title="English" alt="English"/>
