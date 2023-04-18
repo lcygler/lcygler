@@ -18,7 +18,7 @@
 
 <h2>Socials</h2>
 
-<p>Feel free to reach out if you have any questions or just want to connect!</p>
+<p>If you'd like to connect, feel free to reach out!</p>
 
 <a href="https://linkedin.com/in/leandrocygler">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
