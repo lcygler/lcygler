@@ -1,4 +1,4 @@
-# Hola! 👋 Mi nombre es Leandro
+# Hola! 👋 Soy Leandro
 
 ## Acerca de mí
 Soy un Desarrollador Full Stack 👨‍💻 ubicado en Buenos Aires, Argentina.
