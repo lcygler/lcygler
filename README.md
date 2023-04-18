@@ -1,8 +1,8 @@
-# Hi! 👋 I'm Leandro
+<h1>Hi! 👋 I'm Leandro</h1>
 
-Full Stack Developer 👨‍💻 located in Buenos Aires, Argentina.
+<p><strong>Full Stack Developer</strong> 👨‍💻 located in Buenos Aires, Argentina.</p>
 
-## Tech Stack
+<h2>Tech Stack</h2>
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -16,14 +16,18 @@ Full Stack Developer 👨‍💻 located in Buenos Aires, Argentina.
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
 </div>
 
-## Socials
+<h2>Socials</h2>
 
-If you'd like to connect, feel free to reach out!
+<p>Feel free to reach out if you have any questions or just want to connect!</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white "LinkedIn")](https://linkedin.com/in/leandrocygler)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white "Gmail")](mailto:leandrocygler@gmail.com)
+<a href="https://linkedin.com/in/leandrocygler">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/>
+</a>
+<a href="mailto:leandrocygler@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" title="Gmail" alt="Gmail"/>
+</a>
 
-##
+<h2></h2>
 
 <a href="README_es.md">
   <img src="https://img.shields.io/badge/Español-30363d" title="Español" alt="Español"/>
