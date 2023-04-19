@@ -17,8 +17,6 @@
 ![Sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ## Contacto
-Si te gustaría conectar, no dudes en hacerlo!
-
 <a href="https://linkedin.com/in/leandrocygler">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 <a href="mailto:leandrocygler@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
 
