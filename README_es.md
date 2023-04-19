@@ -1,9 +1,7 @@
 # Hola! 👋 Soy Leandro
-
 **Desarrollador Full Stack** 👨‍💻 ubicado en Buenos Aires, Argentina.
 
 ## Tecnologías
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,12 +17,10 @@
 ![Sequelize](https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ## Contacto
-
 Si te gustaría conectar, no dudes en hacerlo!
 
 <a href="https://linkedin.com/in/leandrocygler">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
 <a href="mailto:leandrocygler@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
 
 ## 
-
 <a href="README.md">![English](https://img.shields.io/badge/English-424242)</a>
