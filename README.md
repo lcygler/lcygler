@@ -1,5 +1,6 @@
 # Hi! 👋 I'm Leandro
-**Full Stack Developer** 👨‍💻 located in Buenos Aires, Argentina.
+
+## Full Stack Developer 👨‍💻
 
 ## Tech Stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
