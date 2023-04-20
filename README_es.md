@@ -1,5 +1,6 @@
 # Hola! 👋 Soy Leandro
-**Desarrollador Full Stack** 👨‍💻 ubicado en Buenos Aires, Argentina.
+
+## Desarrollador Full Stack 👨‍💻
 
 ## Tecnologías
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
