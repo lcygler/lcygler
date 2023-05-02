@@ -22,4 +22,4 @@ Feel free to reach out if you'd like to connect!
 <a href="mailto:leandrocygler@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
 
 ##
-<a href="README_es.md">![Español](https://img.shields.io/badge/Español-616161)</a>
+<a href="README_es.md">![ES](https://img.shields.io/badge/ES-616161)</a>
