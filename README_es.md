@@ -13,7 +13,6 @@ Soy un **Desarrollador Full Stack** 👨‍💻 ubicado en Buenos Aires, Argenti
 ![Express](https://img.shields.io/badge/Express-%23316192.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 ## Contacto
 Si deseas conectar, no dudes en escribirme!
