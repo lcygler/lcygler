@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Leandro
 
-I'm a **Full Stack Developer** 👨‍💻 located in Buenos Aires, Argentina.
+I'm a **Full Stack Developer** located in Buenos Aires, Argentina.
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
