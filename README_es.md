@@ -1,6 +1,6 @@
 # Hola! 👋 Soy Leandro
 
-Soy un **Desarrollador Full Stack** 👨‍💻 ubicado en Buenos Aires, Argentina.
+Soy un **Desarrollador Full Stack** ubicado en Buenos Aires, Argentina.
 
 ## Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
