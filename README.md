@@ -1,4 +1,4 @@
-## Hello! 👋 I'm Leandro
+# Hello! 👋 I'm Leandro
 
 I'm a Full Stack Developer based in Buenos Aires, Argentina.
 
