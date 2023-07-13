@@ -4,9 +4,9 @@ I'm a Full Stack Developer based in Buenos Aires, Argentina.
 
 ## Skills
 
-- JavaScript, HTML, CSS, C, Visual Basic
-- Node.js, Express, React, Redux
-- PostgreSQL, Sequelize, Git
+- **Programming Languages:** JavaScript, HTML, CSS, C, Visual Basic
+- **Frameworks and Libraries:** React, Redux, Node.js, Express
+- **Database Management:** PostgreSQL, Sequelize
 
 ## Contact
 
