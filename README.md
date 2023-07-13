@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer based in Buenos Aires, Argentina.
 
-## Tech Stack
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
