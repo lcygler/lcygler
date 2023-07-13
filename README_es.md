@@ -3,6 +3,7 @@
 Soy un Desarrollador Full Stack de Buenos Aires, Argentina.
 
 ## Tecnologías
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
@@ -15,6 +16,7 @@ Soy un Desarrollador Full Stack de Buenos Aires, Argentina.
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ## Contacto
+
 Si te gustaría conectar, no dudes en escribirme!
 
 <a href="https://linkedin.com/in/leandrocygler">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?flat&logo=LinkedIn&logoColor=white)</a>
