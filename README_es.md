@@ -1,6 +1,6 @@
-# Hola! 👋 Soy Leandro
+## Hola! 👋 Soy Leandro
 
-Soy un **Desarrollador Full Stack** ubicado en Buenos Aires, Argentina.
+Soy un Desarrollador Full Stack de Buenos Aires, Argentina.
 
 ## Tecnologías
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -10,15 +10,15 @@ Soy un **Desarrollador Full Stack** ubicado en Buenos Aires, Argentina.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23316192.svg?style=for-the-badge&logo=Express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0071B5.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7.svg?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 ## Contacto
 Si te gustaría conectar, no dudes en escribirme!
 
-<a href="https://linkedin.com/in/leandrocygler">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
-<a href="mailto:leandrocygler@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
+<a href="https://linkedin.com/in/leandrocygler">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?flat&logo=LinkedIn&logoColor=white)</a>
+<a href="mailto:leandrocygler@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?flat&logo=Gmail&logoColor=white)</a>
 
 ## 
 <a href="README.md">![EN](https://img.shields.io/badge/EN-616161)</a>
