@@ -20,4 +20,4 @@ I'm a Full Stack Developer based in Buenos Aires, Argentina.
 Feel free to reach out if you'd like to connect!
 
 <a href="https://linkedin.com/in/leandrocygler">![LinkedIn](https://img.shields.io/badge/LinkedIn-00669c.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
-<a href="mailto:leandrocygler@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-d54b3d.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
+<a href="mailto:leandrocygler@gmail.com">![Email](https://img.shields.io/badge/Email-d54b3d.svg?style=for-the-badge&logo=maildotru&logoColor=white)</a>
