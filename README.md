@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer based in Buenos Aires, Argentina.
 
-## Tech Stack
+## Skills
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
