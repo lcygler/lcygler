@@ -1,6 +1,6 @@
 ## Hello! 👋 I'm Leandro
 
-I'm a Full Stack Developer based in Buenos Aires, Argentina.
+I'm a Software Developer based in Buenos Aires, Argentina.
 
 ## Tech Stack
 
