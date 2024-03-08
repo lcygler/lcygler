@@ -25,8 +25,8 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
   <!-- C# -->
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=5D2D92">
-   <img src="https://img.shields.io/badge/-C%23-white?style=flat&logo=csharp&logoColor=5D2D92" alt="C#">
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=6F3099">
+   <img src="https://img.shields.io/badge/-C%23-white?style=flat&logo=csharp&logoColor=6F3099" alt="C#">
   </picture>
 
   <!-- HTML5 -->
