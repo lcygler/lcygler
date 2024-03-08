@@ -4,24 +4,24 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=5D2D92)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3&logoColor=1C76B8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=openjdk)
+![C#](https://img.shields.io/badge/-C%23-white?style=flat&logo=csharp&logoColor=5D2D92)
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3&logoColor=1C76B8)
 
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=DE0837)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
-![Spring](https://img.shields.io/badge/-Spring-black?style=flat&logo=spring)
-![.Net](https://img.shields.io/badge/-.NET-black?style=flat&logo=.net&logoColor=1A88CA)
+![Angular](https://img.shields.io/badge/-Angular-white?style=flat&logo=angular&logoColor=DE0837)
+![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
+![NodeJS](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-white?style=flat&logo=express&logoColor=000)
+![Spring](https://img.shields.io/badge/-Spring-white?style=flat&logo=spring)
+![.Net](https://img.shields.io/badge/-.NET-white?style=flat&logo=.net&logoColor=1A88CA)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
-![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-black?style=flat&logo=microsoft%20sql%20server&logoColor=EE352C)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=postgresql)
+![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-white?style=flat&logo=microsoft%20sql%20server&logoColor=EE352C)
 
 ## Contact
 
