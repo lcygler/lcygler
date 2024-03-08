@@ -4,8 +4,18 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
 ## Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)
+<div align="left">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript">
+   <img src="https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript" alt="JavaScript">
+  </picture>
+  
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript">
+   <img src="https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript" alt="JavaScript">
+  </picture>
+</div>
+
 ![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=openjdk)
 ![C#](https://img.shields.io/badge/-C%23-white?style=flat&logo=csharp&logoColor=5D2D92)
 ![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5)
