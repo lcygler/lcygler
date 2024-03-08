@@ -2,7 +2,7 @@
 
 I'm a Software Developer based in Buenos Aires, Argentina.
 
-## Tech Stask
+## Tech Stack
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="32" height="32"/>&nbsp;
