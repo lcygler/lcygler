@@ -4,15 +4,13 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
 ## 💻 Skills
 
-**Programming:** `JavaScript`, `TypeScript`, `Java`, `C#`
+**Programming Languages:** `JavaScript`, `TypeScript`, `Java`, `C#`, `HTML`, `CSS`
 
-**Frontend:** `Angular`, `React`, `Bootstrap`, `HTML`, `CSS`
+**Libraries & Frameworks:** `Angular`, `React`, `Bootstrap`, `Node.js`, `Express`, `Spring`, `.NET`
 
-**Backend:** `Node.js`, `Express`, `Spring Boot`, `.NET`
+**Database Management:** `MySQL`, `PostgreSQL`, `Microsoft SQL Server`, `MongoDB`
 
-**Databases:** `MySQL`, `PostgreSQL`, `SQL Server`, `MongoDB`
-
-**Tools**: `Git`, `Scrum`, `Kanban`, `Jira`, `Netlify`, `Vercel`
+**Tools & Platforms**: `Git`, `Scrum`, `Kanban`, `Jira`, `Netlify`, `Vercel`
 
 ## 📫 Contact
 
