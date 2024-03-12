@@ -2,7 +2,7 @@
 
 I'm a Software Developer based in Buenos Aires, Argentina.
 
-## 💻 Tech Stack
+## 💻 Skills
 
 **Programming:** `JavaScript`, `TypeScript`, `Java`, `C#`
 
