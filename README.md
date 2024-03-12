@@ -10,7 +10,7 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
 **Database Management:** `MySQL`, `PostgreSQL`, `Microsoft SQL Server`, `MongoDB`
 
-**Tools & Platforms**: `Git`, `Scrum`, `Kanban`, `Jira`, `Netlify`, `Vercel`
+**Tools & Platforms**: `Git`, `GitHub`, `Scrum`, `Kanban`, `Jira`, `Netlify`, `Vercel`
 
 ## 📫 Contact
 
