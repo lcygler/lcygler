@@ -6,7 +6,7 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
 **Programming Languages:** `JavaScript`, `TypeScript`, `Java`, `C#`, `HTML`, `CSS`
 
-**Libraries & Frameworks:** `Angular`, `React`, `Bootstrap`, `Node.js`, `Express`, `Spring`, `.NET`
+**Libraries & Frameworks:** `Angular`, `React`, `Redux`, `Node.js`, `Express`, `Spring`, `.NET`
 
 **Database Management:** `MySQL`, `PostgreSQL`, `Microsoft SQL Server`, `MongoDB`
 
