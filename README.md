@@ -8,7 +8,7 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
 **Libraries & Frameworks:** `Angular` `React` `Redux` `Node` `Express` `.NET` `Spring`
 
-**Database Management:** `SQL` `MySQL` `PostgreSQL` `SQL Server` `MongoDB`
+**Database Technologies:** `SQL` `MySQL` `PostgreSQL` `SQL Server` `MongoDB`
 
 **Tools & Platforms**: `Git` `GitHub` `Scrum` `Kanban` `Jira` `Netlify` `Vercel`
 
