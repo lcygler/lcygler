@@ -14,4 +14,4 @@ I'm a Software Developer based in Buenos Aires, Argentina.
 
 ## 📫 Contact
 
-Connect with me on [LinkedIn](https://linkedin.com/in/leandrocygler) or via email at [leandrocygler@gmail.com](mailto:leandrocygler@gmail.com).
+Connect with me on [LinkedIn](https://linkedin.com/in/leandrocygler) or by email at [leandrocygler@gmail.com](mailto:leandrocygler@gmail.com).
